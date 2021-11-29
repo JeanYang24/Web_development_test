@@ -13,3 +13,10 @@ hr {
 h3{
     color: aquamarine;
 }
+
+.box{
+    width: 33%;
+    text-align: justify;
+    display: inline-block;
+    color: brown;
+}
